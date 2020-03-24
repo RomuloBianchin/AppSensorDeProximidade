@@ -16,7 +16,7 @@ Entender melhor o funcionamento da classe SensorManager, mais especificamente da
 
 << Observação>>
 
-No emulador será impossível testar o sensor, assim como na maioria dos tablets, este sensor também não se encontra disponível, sendo assim a melhor forma é com u disposítivo físico ( celular ).
+No emulador será impossível testar o sensor, assim como na maioria dos tablets, este sensor, também não se encontra disponível, e a melhor forma de testar essa aplicação, é utilizando um disposítivo físico ( celular ).
 
 ![Telas da Aplicação](https://github.com/RomuloBianchin/AppSensorDeProximidade/blob/master/TelasAppSensor.png)
 
